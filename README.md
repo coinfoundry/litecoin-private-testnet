@@ -1,5 +1,4 @@
 ## Litecoin three-node private network in regtest mode
----------------------------------------------------
 
 - Node Pool
   - RPC Port 16001, Username: user, Password: pass
