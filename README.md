@@ -1,4 +1,4 @@
-## Litecoin three nodes private network in regtest mode
+## Litecoin three-node private network in regtest mode
 ---------------------------------------------------
 
 - Node Pool
