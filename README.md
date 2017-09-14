@@ -16,7 +16,7 @@
 ### To run this image with internal ports exposed at host:
 
 ```bash
-docker run -it -d -p 16001:16001 -p 16002:16002 -p 16003:16003 oweichhold/litecoin-private-testnet
+docker run -it -d -p 16001:16001 -p 16002:16002 -p 16003:16003 coinfoundry/litecoin-private-testnet
 ```
 
 ### Generating blocks:
